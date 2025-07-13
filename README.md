@@ -21,4 +21,4 @@
 
 ---
 
-!STACKBYTESQUAD's GitHub stats](https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME_HERE]&show_icons=true&theme=radical&hide_rank=false)
+!STACKBYTESQUAD's GitHub stats](https://github-readme-stats.vercel.app/api?username=STACKBYTESQUAD&show_icons=true&theme=radical&hide_rank=false)
