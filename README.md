@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm STACKBYTESQUAD</h1>
+<h1 align="center">Hi 👋, we are STACKBYTESQUAD</h1>
 <h3 align="center">A FULLSTACK DEVEMOPMENT AGENCY</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stackbytesquad&label=Profile%20views&color=0e75b6&style=flat" alt="stackbytesquad" /> </p>
